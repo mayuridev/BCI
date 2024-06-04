@@ -6,4 +6,4 @@ tensorflow_addons==0.23.0
 torch==2.4.0.dev20240521
 torchaudio==2.2.0.dev20240521
 torchmetrics==1.4.0.post0
-tqdm==4.65.0
+tqdm==4.66.3
