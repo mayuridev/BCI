@@ -1,0 +1,9 @@
+librosa==0.10.2.post1
+matplotlib==3.7.2
+numpy==1.26.4
+tensorflow==2.16.1
+tensorflow_addons==0.23.0
+torch==2.4.0.dev20240521
+torchaudio==2.2.0.dev20240521
+torchmetrics==1.4.0.post0
+tqdm==4.65.0
